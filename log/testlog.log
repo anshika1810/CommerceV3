@@ -1,0 +1,114 @@
+2021-03-10 02:01:47,184 - nopCommerceV3 -INFO - Page is loaded...
+2021-03-10 02:01:47,345 - nopCommerceV3 -INFO - User is provided..
+2021-03-10 02:01:47,429 - nopCommerceV3 -INFO - password is provided...
+2021-03-10 02:02:02,527 - nopCommerceV3 -INFO - user is logged in...
+2021-03-10 02:02:09,414 - nopCommerceV3 -INFO - user is logged out
+2021-03-10 04:09:21,634 - eCommerce -INFO - User provided
+2021-03-10 04:09:21,756 - eCommerce -INFO - Password provided
+2021-03-10 04:10:55,182 - eCommerce -INFO - User provided
+2021-03-10 04:10:55,247 - eCommerce -INFO - Password provided
+2021-03-10 04:12:31,387 - eCommerce -INFO - User provided
+2021-03-10 04:12:31,472 - eCommerce -INFO - Password provided
+2021-03-10 04:16:05,781 - eCommerce -INFO - User provided
+2021-03-10 04:16:05,869 - eCommerce -INFO - Password provided
+2021-03-10 04:16:12,080 - eCommerce -INFO - Login in Clicked
+2021-03-10 04:16:20,049 - eCommerce -INFO - Login Passed
+2021-03-11 18:23:46,772 - eCommerce -INFO - User provided
+2021-03-11 18:23:47,022 - eCommerce -INFO - Password provided
+2021-03-11 18:23:52,772 - eCommerce -INFO - Login in Clicked
+2021-03-11 18:24:03,074 - eCommerce -INFO - Login Passed
+2021-03-12 22:29:32,825 - eCommerce -INFO - User provided
+2021-03-12 22:29:32,903 - eCommerce -INFO - Password provided
+2021-03-12 22:29:41,961 - eCommerce -INFO - Login in Clicked
+2021-03-12 22:29:49,923 - eCommerce -INFO - Login Passed
+2021-03-12 22:40:24,258 - eCommerce -INFO - User provided
+2021-03-12 22:40:24,351 - eCommerce -INFO - Password provided
+2021-03-12 22:40:31,655 - eCommerce -INFO - Login in Clicked
+2021-03-12 22:40:58,905 - eCommerce -INFO - Login Passed
+2021-03-13 01:40:12,144 - eCommerce -INFO - User provided
+2021-03-13 01:40:12,223 - eCommerce -INFO - Password provided
+2021-03-13 01:40:16,014 - eCommerce -INFO - Login in Clicked
+2021-03-13 01:40:23,275 - eCommerce -INFO - Login Passed
+2021-03-14 01:30:58,628 - eCommerce -INFO - Login Passed
+2021-03-14 01:35:01,834 - eCommerce -INFO - Login Passed
+2021-03-14 04:14:24,189 - eCommerce -INFO - User provided
+2021-03-14 04:14:24,273 - eCommerce -INFO - Password provided
+2021-03-14 04:14:29,939 - eCommerce -INFO - Login in Clicked
+2021-03-14 04:20:03,331 - eCommerce -INFO - User provided
+2021-03-14 04:20:03,410 - eCommerce -INFO - Password provided
+2021-03-14 04:20:06,728 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:22:30,687 - eCommerce -INFO - User provided
+2021-03-14 23:22:30,892 - eCommerce -INFO - Password provided
+2021-03-14 23:22:35,990 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:26:12,221 - eCommerce -INFO - User provided
+2021-03-14 23:26:12,387 - eCommerce -INFO - Password provided
+2021-03-14 23:26:22,177 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:28:48,000 - eCommerce -INFO - User provided
+2021-03-14 23:28:48,133 - eCommerce -INFO - Password provided
+2021-03-14 23:28:52,981 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:36:41,758 - eCommerce -INFO - User provided
+2021-03-14 23:36:41,963 - eCommerce -INFO - Password provided
+2021-03-14 23:36:50,854 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:38:53,930 - eCommerce -INFO - User provided
+2021-03-14 23:38:54,086 - eCommerce -INFO - Password provided
+2021-03-14 23:38:59,895 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:42:43,602 - eCommerce -INFO - User provided
+2021-03-14 23:42:43,737 - eCommerce -INFO - Password provided
+2021-03-14 23:42:47,940 - eCommerce -INFO - Login in Clicked
+2021-03-14 23:48:03,056 - eCommerce -INFO - User provided
+2021-03-14 23:48:03,196 - eCommerce -INFO - Password provided
+2021-03-14 23:48:12,774 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:01:45,687 - eCommerce -INFO - User provided
+2021-03-15 00:01:45,827 - eCommerce -INFO - Password provided
+2021-03-15 00:01:51,406 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:06:25,912 - eCommerce -INFO - User provided
+2021-03-15 00:06:26,060 - eCommerce -INFO - Password provided
+2021-03-15 00:06:32,825 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:09:17,022 - eCommerce -INFO - User provided
+2021-03-15 00:09:17,162 - eCommerce -INFO - Password provided
+2021-03-15 00:09:24,232 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:09:33,045 - eCommerce -INFO - Customer is saved
+2021-03-15 00:12:48,258 - eCommerce -INFO - User provided
+2021-03-15 00:12:48,425 - eCommerce -INFO - Password provided
+2021-03-15 00:12:56,117 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:13:06,466 - eCommerce -INFO - Customer is saved
+2021-03-15 00:20:08,856 - eCommerce -INFO - User provided
+2021-03-15 00:20:09,039 - eCommerce -INFO - Password provided
+2021-03-15 00:20:18,096 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:20:27,968 - eCommerce -INFO - Customer is saved
+2021-03-15 00:20:28,143 - eCommerce -INFO - Result received
+2021-03-15 00:22:00,752 - eCommerce -INFO - User provided
+2021-03-15 00:22:00,918 - eCommerce -INFO - Password provided
+2021-03-15 00:22:08,275 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:22:19,219 - eCommerce -INFO - Customer is saved
+2021-03-15 00:22:19,379 - eCommerce -INFO - Result received
+2021-03-15 00:30:14,753 - eCommerce -INFO - User provided
+2021-03-15 00:30:14,924 - eCommerce -INFO - Password provided
+2021-03-15 00:30:21,604 - eCommerce -INFO - Login in Clicked
+2021-03-15 00:30:33,881 - eCommerce -INFO - Customer is saved
+2021-03-15 00:30:33,882 - eCommerce -INFO - Result received
+2021-03-15 00:30:34,356 - eCommerce -INFO - test case passed....
+2021-03-17 00:06:15,502 - eCommerce -INFO - User provided
+2021-03-17 00:06:15,590 - eCommerce -INFO - Password provided
+2021-03-17 00:06:20,603 - eCommerce -INFO - Login in Clicked
+2021-03-17 00:06:27,694 - eCommerce -INFO - Customer is saved
+2021-03-17 00:06:27,695 - eCommerce -INFO - Result received
+2021-03-17 00:06:27,898 - eCommerce -INFO - test case passed....
+2021-03-17 00:41:13,430 - eCommerce -INFO - User provided
+2021-03-17 00:41:13,547 - eCommerce -INFO - Password provided
+2021-03-17 00:41:22,080 - eCommerce -INFO - Login in Clicked
+2021-03-17 00:41:30,653 - eCommerce -INFO - Customer is saved
+2021-03-17 00:41:30,653 - eCommerce -INFO - Result received
+2021-03-17 00:41:30,850 - eCommerce -INFO - test case passed....
+2021-03-18 01:00:57,331 - eCommerce -INFO - User provided
+2021-03-18 01:00:57,418 - eCommerce -INFO - Password provided
+2021-03-18 01:01:07,220 - eCommerce -INFO - Login in Clicked
+2021-03-18 01:01:13,055 - eCommerce -INFO - Customer is saved
+2021-03-18 01:01:13,055 - eCommerce -INFO - Result received
+2021-03-18 01:01:13,275 - eCommerce -INFO - test case passed....
+2021-03-18 02:18:36,132 - eCommerce -INFO - User provided
+2021-03-18 02:18:36,210 - eCommerce -INFO - Password provided
+2021-03-18 02:18:51,560 - eCommerce -INFO - Login in Clicked
+2021-03-18 02:19:02,265 - eCommerce -INFO - Customer is saved
+2021-03-18 02:19:02,265 - eCommerce -INFO - Result received
+2021-03-18 02:19:02,452 - eCommerce -INFO - test case passed....
